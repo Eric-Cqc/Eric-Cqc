@@ -21,7 +21,7 @@ I turn business questions into product workflows, working prototypes, and analys
 
 ## Recent tools · 最近更新
 
-- [**SQL 交互研究台账**](https://github.com/Eric-Cqc/safedrive-sql-analytics/tree/main/research-ledger)：从 10 个业务问题追到订单证据，比较边界条件、保存笔记和导出结果。公开演示使用合成数据；新版结果为 Python 推导，MySQL 实跑待验证。
+- [**SQL 交互研究台账**](https://github.com/Eric-Cqc/safedrive-sql-analytics/tree/main/research-ledger)：从 10 个业务问题追到订单证据，比较边界条件、保存笔记和导出结果。公开演示使用合成数据；页面结果为 Python 推导，已通过 MySQL 9.7.1 两库实跑对照、触发器与事务回滚验证。
 - [**Choice 置信度工作台**](https://github.com/Eric-Cqc/choice-confidence-workbench)：查看不同置信度阈值下的放行、人工复核和已标注错误，保存可复查的分析报告。
 - [**表格问数与证据工具**](https://github.com/Eric-Cqc/table-questions-evidence)：围绕 Excel 原生表格回答问题，保留计算口径、单元格证据和源文件变更校验，附可运行的合成订单示例。
 

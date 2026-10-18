@@ -19,6 +19,12 @@ I turn business questions into product workflows, working prototypes, and analys
 | [Signal Research Framework](https://github.com/Eric-Cqc/quant-alpha-research-framework) | A reproducible pipeline for candidate signals, look-ahead checks, backtesting, risk gates, and walk-forward evaluation on synthetic data. |
 | [Campus Food Pickup Simulation](https://github.com/Eric-Cqc/campus-food-pickup-simulation) | A discrete-event simulation comparing pickup policies with repeated runs and uncertainty estimates. |
 
+## Recent tools · 最近更新
+
+- [**SQL 交互研究台账**](https://github.com/Eric-Cqc/safedrive-sql-analytics/tree/main/research-ledger)：从 10 个业务问题追到订单证据，比较边界条件、保存笔记和导出结果。公开演示使用合成数据；新版结果为 Python 推导，MySQL 实跑待验证。
+- [**Choice 置信度工作台**](https://github.com/Eric-Cqc/choice-confidence-workbench)：查看不同置信度阈值下的放行、人工复核和已标注错误，保存可复查的分析报告。
+- [**表格问数与证据工具**](https://github.com/Eric-Cqc/table-questions-evidence)：围绕 Excel 原生表格回答问题，保留计算口径、单元格证据和源文件变更校验，附可运行的合成订单示例。
+
 ## How I approach projects · 我的工作方式
 
 - **Define the decision:** identify the user, the business question, and the outcome to evaluate.
